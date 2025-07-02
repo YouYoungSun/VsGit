@@ -8,6 +8,8 @@
             Console.WriteLine("Hello, World!");
             Console.WriteLine("안녕하세요");
             Console.WriteLine("후후");
+            Console.WriteLine("클론에서 푸쉬");
+            Console.WriteLine("클론에서 푸쉬");
         }
     }
 }
